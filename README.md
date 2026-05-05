@@ -1,8 +1,64 @@
 # UNIted
-  A creative lab exploring narrative, design, and expression.  
-  ナラティブとデザインを軸に、表現と可能性を探るクリエイティブラボ。
-  
-## Explore  
-  
-- 思考の定義 → [Concept](./concept.md)  
-- 原点の物語 → [Vision](./vision.md)  
+
+![UNIted Logo](./assets/logo.png)
+
+もっと愛おしく、もっと人間らしく。
+
+---
+
+## About
+
+UNItedは、言葉とデザインを通じて、
+個と個をつなぎ、人間らしさを取り戻すための共創の場です。
+
+テクノロジーによって加速する世界の中で、私たちは、
+「何に触れ、何を感じ、何を悦ぶのか」を問い続けながら、
+個人やブランドの内側にある想いを、ビジュアル x コミュニケーションに表現します。
+
+個は孤ではなく、つながりの中で意味を持つ。
+
+その前提のもとに、愛や感情が循環する世界を、ここから生み出していきます。
+
+---
+
+## Our 3Cs
+
+### Connect
+個と個をつなぎ、  
+新しい関係性や物語を生み出します。
+
+---
+
+### Create
+言葉とビジュアルを通じて、  
+まだ名前のない感情や価値をかたちにします。
+
+---
+
+### Cultivate
+愛や感情、衝動を起点に、  
+関係性や表現を育てていきます。
+
+---
+
+## Concept
+
+このプロジェクトの思想や背景についてはこちらから。
+
+→ [Concept](./concept.md)
+
+---
+
+## Vision
+
+これからどこへ向かうのか。
+
+→ [Vision](./vision.md)
+
+---
+
+## Coming Soon
+
+- Web site  
+- Posters / Visual Works  
+- Creative Collaborations  
